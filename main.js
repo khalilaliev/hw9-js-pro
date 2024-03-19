@@ -7,7 +7,6 @@ const map = new Map([
   [123, "number"],
   ["hello", "string"],
   [Symbol(), "symbol"],
-  [[1, 2, 3], "array"],
   [{ name: "Khalil" }, "object"],
   [null, "null"],
   [undefined, "undefined"],
